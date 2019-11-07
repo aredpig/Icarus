@@ -25,5 +25,5 @@ null,
 {"id":23,"expanded":true,"name":"MAP023","order":17,"parentId":4,"scrollX":648.8,"scrollY":906.4},
 {"id":24,"expanded":true,"name":"Grease","order":18,"parentId":23,"scrollX":589.8181818181819,"scrollY":522.1818181818181},
 {"id":25,"expanded":false,"name":"ERNEST JACOBSON ROOM","order":21,"parentId":23,"scrollX":540.6666666666666,"scrollY":390.6666666666667},
-{"id":26,"expanded":false,"name":"Wing room","order":26,"parentId":11,"scrollX":832,"scrollY":640}
+{"id":26,"expanded":false,"name":"Wing room","order":26,"parentId":11,"scrollX":546,"scrollY":302}
 ]
