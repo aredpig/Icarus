@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"NIGHT","order":24,"parentId":0,"scrollX":689.7777777777778,"scrollY":1760.888888888889},
+{"id":1,"expanded":true,"name":"NIGHT","order":24,"parentId":0,"scrollX":816,"scrollY":1760},
 {"id":2,"expanded":true,"name":"FATHEROOM1","order":3,"parentId":6,"scrollX":696.8888888888889,"scrollY":428.44444444444446},
 {"id":3,"expanded":true,"name":"GIRLROOM","order":14,"parentId":4,"scrollX":696.8888888888889,"scrollY":428.44444444444446},
 {"id":4,"expanded":true,"name":"DAY","order":1,"parentId":0,"scrollX":689.7777777777778,"scrollY":762.6666666666666},
@@ -26,5 +26,6 @@ null,
 {"id":24,"expanded":true,"name":"Grease","order":18,"parentId":23,"scrollX":689.7777777777778,"scrollY":445.3333333333333},
 {"id":25,"expanded":false,"name":"ERNEST JACOBSON ROOM","order":21,"parentId":23,"scrollX":696.8888888888889,"scrollY":428.44444444444446},
 {"id":26,"expanded":true,"name":"Wing room","order":26,"parentId":11,"scrollX":696.8888888888889,"scrollY":428.44444444444446},
-{"id":27,"expanded":false,"name":"for test","order":27,"parentId":26,"scrollX":696.8888888888889,"scrollY":428.44444444444446}
+{"id":27,"expanded":false,"name":"for test","order":27,"parentId":26,"scrollX":696.8888888888889,"scrollY":428.44444444444446},
+{"id":28,"expanded":false,"name":"MAP028","order":28,"parentId":11,"scrollX":832,"scrollY":640}
 ]
