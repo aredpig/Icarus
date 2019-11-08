@@ -24,7 +24,7 @@ null,
 {"id":22,"expanded":true,"name":"puzzle 3","order":19,"parentId":23,"scrollX":960,"scrollY":720},
 {"id":23,"expanded":true,"name":"MAP023","order":17,"parentId":4,"scrollX":816,"scrollY":1520},
 {"id":24,"expanded":true,"name":"Grease","order":18,"parentId":23,"scrollX":832,"scrollY":640},
-{"id":25,"expanded":false,"name":"ERNEST JACOBSON ROOM","order":21,"parentId":23,"scrollX":832,"scrollY":640},
+{"id":25,"expanded":false,"name":"ERNEST JACOBSON ROOM","order":21,"parentId":23,"scrollX":819,"scrollY":453},
 {"id":26,"expanded":true,"name":"Wing room","order":26,"parentId":11,"scrollX":819,"scrollY":453},
 {"id":27,"expanded":false,"name":"for test","order":27,"parentId":26,"scrollX":656,"scrollY":433}
 ]
