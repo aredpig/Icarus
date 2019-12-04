@@ -2661,8 +2661,8 @@ Window_Options.prototype.windowHeight = function() {
 };
 
 Window_Options.prototype.updatePlacement = function() {
-    this.x = (Graphics.boxWidth - this.width) / 2;
-    this.y = (Graphics.boxHeight - this.height) / 2;
+    this.x = (Graphics.boxWidth - this.width) /2;
+    this.y = (Graphics.boxHeight - this.height) /2;
 };
 
 Window_Options.prototype.makeCommandList = function() {
@@ -5740,7 +5740,7 @@ Window_TitleCommand.initCommandPosition = function() {
 };
 
 Window_TitleCommand.prototype.windowWidth = function() {
-    return 240;
+    return 200;
 };
 
 Window_TitleCommand.prototype.updatePlacement = function() {
