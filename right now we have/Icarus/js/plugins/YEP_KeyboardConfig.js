@@ -1119,7 +1119,7 @@ Scene_KeyConfig.prototype.createKeyActionWindow = function() {
 
 Scene_KeyConfig.prototype.commandDefault = function() {
 	ConfigManager.keyMapper = 
-    JSON.parse(JSON.stringify(ConfigManager.defaultMap));
+    JSON.parse(JSON.stringify(ConfigManager.wasdMap));
 	ConfigManager.applyKeyConfig();
 	this.refreshWindows();
 };
