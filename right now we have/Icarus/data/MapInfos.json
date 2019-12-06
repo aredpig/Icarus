@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"NIGHT","order":25,"parentId":0,"scrollX":811,"scrollY":1940},
-{"id":2,"expanded":true,"name":"FatherRoom1","order":5,"parentId":6,"scrollX":819,"scrollY":460},
+{"id":2,"expanded":true,"name":"FatherRoom1","order":5,"parentId":6,"scrollX":819,"scrollY":460.5},
 {"id":3,"expanded":true,"name":"GirlRoom","order":2,"parentId":4,"scrollX":819,"scrollY":460},
 {"id":4,"expanded":true,"name":"DAY","order":1,"parentId":0,"scrollX":811,"scrollY":1540},
 {"id":5,"expanded":true,"name":"BadGuyRoom","order":19,"parentId":4,"scrollX":819,"scrollY":460},
